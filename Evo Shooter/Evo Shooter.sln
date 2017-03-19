@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evo Shooter", "Assembly-CSharp.csproj", "{D93EC23D-860F-9774-4C47-58B280272FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evo Shooter", "Assembly-CSharp-Editor.csproj", "{D493A1A9-E1C2-D2EF-8FE4-140DEC295BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D93EC23D-860F-9774-4C47-58B280272FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93EC23D-860F-9774-4C47-58B280272FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93EC23D-860F-9774-4C47-58B280272FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93EC23D-860F-9774-4C47-58B280272FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D493A1A9-E1C2-D2EF-8FE4-140DEC295BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D493A1A9-E1C2-D2EF-8FE4-140DEC295BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D493A1A9-E1C2-D2EF-8FE4-140DEC295BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D493A1A9-E1C2-D2EF-8FE4-140DEC295BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
